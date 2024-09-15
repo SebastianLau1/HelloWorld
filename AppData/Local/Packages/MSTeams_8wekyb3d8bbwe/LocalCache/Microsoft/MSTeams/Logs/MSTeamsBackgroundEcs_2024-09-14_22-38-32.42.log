@@ -1,0 +1,25 @@
+2024-09-15T03:38:32.608186-05:00 0x00003f6c <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : TelemetryServiceWorker
+2024-09-15T03:38:32.708105-05:00 0x00006578 <INFO> TelemetryService: Sampling rules from previous session recovered
+2024-09-15T03:38:32.715166-05:00 0x00006578 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD7C205: (caller: 00007FF7FBCDCCB6) LogHr(1) tid(6578) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.715166-05:00 0x00006578 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD7C205: (caller: 00007FF7FBCDCCB6) LogHr(2) tid(6578) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.715166-05:00 0x00006578 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(58)\ms-teamsupdate.exe!00007FF7FBD190D7: (caller: 00007FF7FBD7C21F) LogHr(3) tid(6578) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.716182-05:00 0x00006578 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-15T03:38:32.716182-05:00 0x00006578 <INFO> BackgroundTaskBase: Registering msteamsupdate.exe as bgtask com server for task: TeamsTfwEcsTask
+2024-09-15T03:38:32.755032-05:00 0x00005cc8 <INFO> EcsBackgroundTask: Starting ecs background task
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD23D45) LogHr(4) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD24D30) LogHr(5) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD24EAB: (caller: 00007FF7FBD3BE54) LogHr(6) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD24FD3) LogHr(7) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD250B3) LogHr(8) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.756051-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD250E5) LogHr(9) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.757053-05:00 0x00005cc8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD25277) LogHr(10) tid(5cc8) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.757053-05:00 0x00005cc8 <INFO> TelemetryService: Restored sampling rules from previous session
+2024-09-15T03:38:32.757053-05:00 0x00005cc8 <INFO> vdi::VDIProvider: : VDIMode: 0000
+2024-09-15T03:38:32.832619-05:00 0x00005cc8 <INFO> TelemetryService: No primary user detected during a SetUserTenantId Call, setting 2ca68321-0eda-4908-88b2-424a8cb4b0f9 as default tenant
+2024-09-15T03:38:32.837704-05:00 0x00005cc8 <INFO> TelemetryService: No primary user detected during a SetUserId Call, setting 6d9bae83-3e37-4cee-92e1-96e23aec9c26 as UserInfo_Id
+2024-09-15T03:38:32.860890-05:00 0x00005cc8 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T03:38:32.868961-05:00 0x00005cc8 <INFO> EcsFetchCompletion: Ecs settings less than 60s to expiring. Keeping bg task alive until then
+2024-09-15T03:38:33.282341-05:00 0x00003ab0 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T03:38:33.285856-05:00 0x00003ab0 <INFO> EcsFetchCompletion: Successfully updated ecs settings from server
+2024-09-15T03:38:33.302464-05:00 0x00005cc8 <INFO> EcsBackgroundTask: Completed ecs background task
+2024-09-15T03:38:34.388807-05:00 0x00006578 <INFO> TelemetryService: Telemetry service stopped

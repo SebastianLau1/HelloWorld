@@ -1,0 +1,44 @@
+2024-09-15T03:38:32.577300-05:00 0x00005978 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : TelemetryServiceWorker
+2024-09-15T03:38:32.690930-05:00 0x0000655c <INFO> TelemetryService: Sampling rules from previous session recovered
+2024-09-15T03:38:32.696458-05:00 0x0000655c <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD7C205: (caller: 00007FF7FBCDCCB6) LogHr(1) tid(655c) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.697973-05:00 0x0000655c <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD7C205: (caller: 00007FF7FBCDCCB6) LogHr(2) tid(655c) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.697973-05:00 0x0000655c <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(58)\ms-teamsupdate.exe!00007FF7FBD190D7: (caller: 00007FF7FBD7C21F) LogHr(3) tid(655c) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.697973-05:00 0x0000655c <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-15T03:38:32.697973-05:00 0x0000655c <INFO> BackgroundTaskBase: Registering msteamsupdate.exe as bgtask com server for task: TeamsTfwAsyncUpdaterTask
+2024-09-15T03:38:32.737890-05:00 0x00002234 <INFO> AsyncUpdaterTask: Starting updater background task
+2024-09-15T03:38:32.738909-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD23D45) LogHr(4) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.738909-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD24D30) LogHr(5) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.738909-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBD24EAB: (caller: 00007FF7FBD36728) LogHr(6) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.739905-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD24FD3) LogHr(7) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.739905-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF7FBD193E6: (caller: 00007FF7FBD250B3) LogHr(8) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.739905-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD250E5) LogHr(9) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.739905-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD25277) LogHr(10) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:32.739905-05:00 0x00002234 <INFO> TelemetryService: Restored sampling rules from previous session
+2024-09-15T03:38:32.740911-05:00 0x00002234 <INFO> vdi::VDIProvider: : VDIMode: 0000
+2024-09-15T03:38:32.817002-05:00 0x00002234 <INFO> TelemetryService: No primary user detected during a SetUserTenantId Call, setting 2ca68321-0eda-4908-88b2-424a8cb4b0f9 as default tenant
+2024-09-15T03:38:32.822536-05:00 0x00002234 <INFO> TelemetryService: No primary user detected during a SetUserId Call, setting 6d9bae83-3e37-4cee-92e1-96e23aec9c26 as UserInfo_Id
+2024-09-15T03:38:32.826059-05:00 0x00002234 <INFO> AsyncUpdaterTask: Starting ecs fetch
+2024-09-15T03:38:32.846259-05:00 0x00002234 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T03:38:32.853338-05:00 0x00002234 <INFO> EcsFetchCompletion: Ecs settings less than 60s to expiring. Keeping bg task alive until then
+2024-09-15T03:38:32.879044-05:00 0x00002234 <INFO> AsyncUpdaterTask: Using cancellation flow version 0
+2024-09-15T03:38:33.368016-05:00 0x000066cc <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T03:38:33.370556-05:00 0x000066cc <INFO> EcsFetchCompletion: Successfully updated ecs settings from server
+2024-09-15T03:38:33.378083-05:00 0x00002234 <INFO> AsyncUpdaterTask: Completed ecs fetch. Result is 0
+2024-09-15T03:38:33.380093-05:00 0x00002234 <INFO> GetBuildDaysTillEnd: Current build age is: 43
+2024-09-15T03:38:33.501056-05:00 0x00002234 <ERR>  WIL: ms-teamsupdate.exe!00007FF7FBE277B3: LogHr(11) tid(2234) 80070057 The parameter is incorrect.
+2024-09-15T03:38:33.503596-05:00 0x00002234 <INFO> settings::AppSettings: Main window state value: 0
+2024-09-15T03:38:33.503596-05:00 0x00002234 <INFO> settings::AppSettings: Main window state before restart value: 256
+2024-09-15T03:38:33.513157-05:00 0x00002234 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/buildLink
+2024-09-15T03:38:33.517200-05:00 0x00002234 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T03:38:33.522741-05:00 0x00002234 <ERR>  DeploymentProviderMSIX: Already up to date
+2024-09-15T03:38:33.522741-05:00 0x00002234 <ERR>  WIL: ms-teamsupdate.exe!00007FF7FBD42294: LogHr(12) tid(2234) 800704C7 The operation was canceled by the user.
+2024-09-15T03:38:33.523740-05:00 0x00002234 <ERR>  WIL: ms-teamsupdate.exe!00007FF7FBED1C96: ReturnHr(1) tid(2234) 800704C7 The operation was canceled by the user.
+    Msg:[winrt::hresult_error: The operation was canceled by the user.] 
+2024-09-15T03:38:33.523740-05:00 0x00002234 <INFO> UpdateInstaller: InstallUpdateInternal: Download failed with error: -2,147,023,673, extended error: 0, error message: 
+2024-09-15T03:38:33.525259-05:00 0x00002234 <INFO> UpdateInstaller: InstallUpdateInternal download result: -2,147,023,673, cancel reason: None
+2024-09-15T03:38:33.530302-05:00 0x00002234 <INFO> TeamsMeetingMsiAddin: Meeting Addin MSI msexec command: TEAMSFLAVOR=T2.1 MSIINSTALLPERUSER=1 ALLUSERS=2 REBOOT=ReallySuppress InstallerVersion=v3
+2024-09-15T03:38:33.532839-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF7FBE286ED: (caller: 00007FF7FBD51A31) LogHr(13) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:33.542968-05:00 0x00002234 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(58)\ms-teamsupdate.exe!00007FF7FBD190D7: (caller: 00007FF7FBE28321) LogHr(14) tid(2234) 80070002 The system cannot find the file specified.
+2024-09-15T03:38:33.550076-05:00 0x00002234 <INFO> TeamsMeetingMsiAddin: Meeting addin up to date.
+2024-09-15T03:38:33.553632-05:00 0x00002234 <INFO> AsyncUpdaterTask: Updater task completed
+2024-09-15T03:38:34.639510-05:00 0x0000655c <INFO> TelemetryService: Telemetry service stopped
